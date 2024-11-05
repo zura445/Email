@@ -7,5 +7,29 @@
 .main {
   width: 600px;
   margin: auto;
-  background-color: blue;
+  background-color: #f5f5f5;
+}
+
+.email-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.logo {
+  font-size: 36px;
+  padding: 12px 0;
+  width: 100%;
+}
+
+.sign {
+  font-size: 20px;
+  color: #ddaa00;
+  background-color: #173f4e;
+  width: 100%;
+  padding: 14px 0;
+  text-align: center;
+}
+.refreshing {
+  font-size: 28px;
+  padding: 30px 0;
 }
