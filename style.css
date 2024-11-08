@@ -52,3 +52,9 @@
   font-size: 20px;
   cursor: pointer;
 }
+.link {
+  color: black;
+}
+.box {
+  padding: 36px 10px;
+}
