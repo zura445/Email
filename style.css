@@ -93,3 +93,17 @@
   height: auto;
   border-radius: 8px;
 }
+.footer {
+  background-color: #7c5d3d;
+  padding: 20px 0;
+  width: 100%;
+  text-align: center;
+}
+.details {
+  color: #ddaa00;
+  font-weight: 800;
+}
+.contact {
+  margin-top: 6px;
+  color: white;
+}
